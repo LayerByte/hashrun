@@ -55,7 +55,3 @@ The tool validates input, performs a focused defensive analysis task, and prints
 ## Disclaimer
 
 This project is for defensive learning, school assignments, and authorized administration. It does not include malware, credential theft, brute-force attacks, exploitation, payload delivery, persistence, or bypass functionality.
-
-## License
-
-Released under the MIT License.
